@@ -1,0 +1,12 @@
+[
+{"type":"header","version":"4.7.4","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"um"},
+{"type":"table","name":"usuarios","database":"um","data":
+[
+{"id":"1","usuario":"admin","email":"admin@gmail.com","nombre":"administrador","password":"12345678","rol":"1"},
+{"id":"2","usuario":"gaston","email":"gr.l33t@gmail.com","nombre":"Gaston Rodriguez","password":"12345678","rol":"2"},
+{"id":"5","usuario":"marquitos","email":"marquitos@gmail.com","nombre":"Marquitos Rugoso","password":"12345678","rol":"2"},
+{"id":"4","usuario":"ruben","email":"hola@hola.com","nombre":"Ruben Rodriguez","password":"12341234","rol":"2"}
+]
+}
+]
